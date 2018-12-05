@@ -32,4 +32,4 @@ $ hdfs dfs -tail
 
 $ hdfs dfs -text
 
-### If you need detailed instruction and more commands, please refer to the link: [Apache Hadoop 2.4.1 -File System Shell Guide](https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html)
+#### If you need detailed instruction and more commands, please refer to the link: [Apache Hadoop 2.4.1 -File System Shell Guide](https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html)

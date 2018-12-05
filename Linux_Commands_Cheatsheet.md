@@ -50,5 +50,5 @@ Sends output of one command to another
 2)	In the terminal, Linux commands are case and space sensitive, so be careful with any space and upper/lower case when you input commands.
 3)	You can hit “Tab” while typing a command, option or file name and the shell environment will automatic complete what you are typing or suggest options to you.
 
-### If you need more detailed instruction, please refer to the link: [Basic Linux Commands for Beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+#### If you need more detailed instruction, please refer to the link: [Basic Linux Commands for Beginners](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
