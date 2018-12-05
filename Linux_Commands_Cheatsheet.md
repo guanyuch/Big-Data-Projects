@@ -1,4 +1,4 @@
-# Linux Commands Cheat Sheet
+## Linux Commands Cheat Sheet
 
 $ ls\
 Lists all files in the current directory

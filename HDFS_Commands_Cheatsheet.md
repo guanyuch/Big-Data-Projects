@@ -1,4 +1,4 @@
-# Hadoop Distributed File System (HDFS) Commands Cheat Sheet
+## Hadoop Distributed File System (HDFS) Commands Cheat Sheet
 
 ### Most of the commands in FS shell behave like corresponding Unix commands. This cheat sheet is for operating file management in Hadoop Distributed File System (HDFS)
 
