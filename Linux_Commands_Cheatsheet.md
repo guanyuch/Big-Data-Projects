@@ -45,7 +45,7 @@ Goes to the /etc directory
 $ |\
 Sends output of one command to another
 
-## Linux Hints:
+### Linux Hints:
 1)	You may find yourself typing and retyping a lot of the same commands. To get around this, you can hit the Up-Arrow key, which will cycle through past commands you’ve typed.
 2)	In the terminal, Linux commands are case and space sensitive, so be careful with any space and upper/lower case when you input commands.
 3)	You can hit “Tab” while typing a command, option or file name and the shell environment will automatic complete what you are typing or suggest options to you.
